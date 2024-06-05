@@ -1,0 +1,14 @@
+13:06:50 **** Incremental Build of configuration Debug for project Hangman ****
+make all 
+Building file: ../src/Hangman.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/Hangman.d" -MT"src/Hangman.d" -o "src/Hangman.o" "../src/Hangman.c"
+Finished building: ../src/Hangman.c
+ 
+Building target: Hangman
+Invoking: GCC C Linker
+gcc  -o "Hangman"  ./src/Hangman.o   
+Finished building target: Hangman
+ 
+
+13:06:50 Build Finished (took 164ms)

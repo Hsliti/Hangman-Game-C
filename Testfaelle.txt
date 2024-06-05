@@ -1,0 +1,299 @@
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:6
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):HA,MZA
+
+Es sind nur Zeichenvorrat a-z und A-Z sowie Leerzeichen zulässig!
+Bitte geben Sie die Länge ihres zu erratenden Wortes ein :
+
+##############################################################################
+
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen )HAM1ZA
+
+Es sind nur Zeichenvorrat a-z und A-Z sowie Leerzeichen zulässig!
+Bitte geben Sie die Länge ihres zu erratenden Wortes ein:
+
+
+
+#################################################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:10
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):EEEEEEEEEE
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:A
+----------
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:E
+EEEEEEEEEE
+
+Fehlversuche (maximal 3):|
+Herzlichen Glückwunsch! Du hast gewonnen!
+
+###########################################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:9
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):EEEEEEeEE
+
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:E
+EEEEEE-EE
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:e
+EEEEEEeEE
+
+Fehlversuche (maximal 3):
+Herzlichen Glückwunsch! Du hast gewonnen!
+########################################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:11
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):Like a BOSS
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:S
+---------SS
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:L
+L--------SS
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:i
+Li-------SS
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:k
+Lik------SS
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:e
+Like-----SS
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:A
+Like-----SS
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:a
+Like-a---SS
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben: 
+Like a --SS
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:B
+Like a B-SS
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:O
+Like a BOSS
+
+Fehlversuche (maximal 3):|
+Herzlichen Glückwunsch! Du hast gewonnen!
+
+
+######################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:16
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):CURRYWURSTFRITTE
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:C
+C---------------
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:U
+CU----U---------
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:R
+CURR--UR---R----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:Y
+CURRY-UR---R----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:W
+CURRYWUR---R----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:F
+CURRYWUR--FR----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:S
+CURRYWURS-FR----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:T
+CURRYWURSTFR-TT-
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:A
+CURRYWURSTFR-TT-
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:V
+CURRYWURSTFR-TT-
+
+Fehlversuche (maximal 3):||
+Raten Sie nun einen Buchstaben:I
+CURRYWURSTFRITT-
+
+Fehlversuche (maximal 3):||
+Raten Sie nun einen Buchstaben:E
+CURRYWURSTFRITTE
+
+Fehlversuche (maximal 3):||
+Herzlichen Glückwunsch! Du hast gewonnen!
+
+##########################################################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:17
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):ERSTSEMESTERPARTY
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:E
+E----E-E--E------
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:S
+E-S-SE-ES-E------
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:P
+E-S-SE-ES-E-P----
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:Y
+E-S-SE-ES-E-P---Y
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:R
+ERS-SE-ES-ERP-R-Y
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:T
+ERSTSE-ESTERP-RTY
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:M
+ERSTSEMESTERP-RTY
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:A
+ERSTSEMESTERPARTY
+
+Fehlversuche (maximal 3):
+Herzlichen Glückwunsch! Du hast gewonnen!
+
+############################################################
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:6
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):AbacuS
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:c
+---c--
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:b
+-b-c--
+
+Fehlversuche (maximal 3):
+Raten Sie nun einen Buchstaben:y
+-b-c--
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:u
+-b-cu-
+
+Fehlversuche (maximal 3):|
+Raten Sie nun einen Buchstaben:s
+-b-cu-
+
+Fehlversuche (maximal 3):||
+Raten Sie nun einen Buchstaben:A
+Ab-cu-
+
+Fehlversuche (maximal 3):||
+Raten Sie nun einen Buchstaben:a
+Abacu-
+
+Fehlversuche (maximal 3):||
+Raten Sie nun einen Buchstaben:S
+AbacuS
+
+Fehlversuche (maximal 3):||
+Herzlichen Glückwunsch! Du hast gewonnen!
+
+
+#########################################################
+
+***HANGMAN EINSTELLUNGEN***
+Bitte geben Sie zuerst die Länge des zu erratenden Wortes ein:1
+
+Geben Sie nun ihr zu erratendes Wort ein (Zeichenvorrat a-z und A-Z sowie Leerzeichen ):Y
+
+Geben Sie die Anzahl der Fehlversuche ein:3
+
+
+***DAS SPIEL BEGINNT***
+Raten Sie nun einen Buchstaben:Y
+Y
+
+Fehlversuche (maximal 3):
+Herzlichen Glückwunsch! Du hast gewonnen!
